@@ -10,7 +10,7 @@ function App() {
         <h3>Guess the word by typing the answer</h3>
       </div>
 
-      <Link to='/main'><button >Start!</button></Link> 
+      <Link to='/main'><button className='startBtn' >Start!</button></Link> 
     </div>
   );
 }
